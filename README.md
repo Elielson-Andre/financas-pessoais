@@ -1,4 +1,4 @@
 # Financas-pessoais
 x-special/nautilus-clipboard
 copy
-file:///home/elielson/Imagens/Captura%20de%20tela%20de%202021-05-15%2002-41-45.png
+![Captura de tela de 2021-05-15 02-41-45](https://user-images.githubusercontent.com/68979955/118349536-a31ef880-b527-11eb-9555-43b2064bcf7c.png)
